@@ -11,10 +11,10 @@
     <title>Big Daddy Finances</title>
 
     <!-- Favicon -->
-    <link rel="icon" href="img/core-img/favicon.png">
+    <link rel="icon" href="/img/core-img/favicon.png">
 
     <!-- Stylesheet -->
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="/style.css">
 
 </head>
 
