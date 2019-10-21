@@ -56,7 +56,7 @@
                             <div class="classynav">
                                 <ul>
                                     <li><a href="index.php">Home</a></li>
-                                    <li><a href="about.php">About Us</a></li>
+                                    <li><a href="About.php">About Us</a></li>
                                     <li><a href="#">Loans</a>
                                         <ul class="dropdown">
                                             <li><a href="#">Home Loan  &nbsp;&nbsp; 🢒</a>
