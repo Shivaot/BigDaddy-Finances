@@ -23,7 +23,7 @@
 
    <?php
 
-require_once("header.php");
+require_once("Header.php");
 ?>
 
     <br>
@@ -146,7 +146,7 @@ The house to be constructed or acquired under PMAY has be purchased either in th
 
 <?php
 
-require_once("footer.php");
+require_once("Footer.php");
 ?>
 
 </body>
