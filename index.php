@@ -461,7 +461,7 @@ require_once("Header.php");
 
    <?php
 
-require_once("footer.php");
+require_once("Footer.php");
 ?>
 
 </body>
