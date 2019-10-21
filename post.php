@@ -22,7 +22,7 @@
 <body>
      <?php
 
-require_once("header.php");
+require_once("Header.php");
 ?>
 
     <!-- ##### Breadcrumb Area Start ##### -->
@@ -340,7 +340,7 @@ require_once("header.php");
 
   <?php
 
-require_once("footer.php");
+require_once("Footer.php");
 ?>
 </body>
 
