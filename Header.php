@@ -96,7 +96,7 @@
                                             <li><a href="Mutual_Fund.php">Mutual Fund</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="Services.php">Services</a></li>
+                                    <li><a href="services.php">Services</a></li>
                                     <li><a href="#">EMI Calculator</a>
                                          <ul class="dropdown">
                                             <li><a href="Home_Loan_Eligibility.php"> Home Loan Eligibility</a></li>
