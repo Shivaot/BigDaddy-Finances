@@ -23,7 +23,7 @@
 
    <?php
 
-require_once("header.php");
+require_once("Header.php");
 ?>
 
     <br>
@@ -149,7 +149,7 @@ Your home loan eligibility or how much loan you are eligible for is also calcula
 
 <?php
 
-require_once("footer.php");
+require_once("Footer.php");
 ?>
 
 </body>
